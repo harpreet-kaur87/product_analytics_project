@@ -5,7 +5,7 @@ The objective of this project is to analyze product-level data from an e-commerc
 
 ![dashboard image](https://github.com/harpreet-kaur87/product_analytics_project/blob/main/dashboard_image.png)
 
-##Key Insights & Conclusion :
+## Key Insights & Conclusion :
 
 1. The platform hosts 23,510 unique products across 11 categories, indicating a broad and diverse product assortment.
 
